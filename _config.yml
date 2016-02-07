@@ -1,0 +1,12 @@
+permalink: :title
+
+encoding: "utf-8"
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# About
+author:
+  name: azatris
+  email: azatris@gmail.com
