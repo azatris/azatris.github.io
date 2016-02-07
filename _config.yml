@@ -2,9 +2,9 @@ permalink: :title
 
 encoding: "utf-8"
 highlighter: rouge
-markdown: kramdown
-kramdown:
-  input: GFM
+markdown: redcarpet 
+redcarpet: 
+  extensions: ["strikethrough"] 
 
 # About
 author:
