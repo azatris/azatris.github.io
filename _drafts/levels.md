@@ -3,13 +3,21 @@ layout: post
 title: Kegan's Levels (or Constructive Developmental Theory)
 ---
 
-As soon as I stumbled on people talking about Kegan's levels, it captured my curiosity: _"finally, a coherent theory of self-development!"_. My hopes were of course immediately towards actually being able to use it in order to become wiser in my daily life, to make better decisions or even simply understand everyone else better. But, as I'll be describing theory below, you'll see how little use this framework has for an individual already on the maximum level. However, Berger argues that _"understanding adult development [-al capacity] is a key feature in understanding and working with adults"_ [1], so even if the theory is useless for a level 5 individual for self-development, there is at least some gains to be had in form of _understanding_. 
+As soon as I stumbled on people talking about Kegan's levels, it captured my curiosity: _"finally, a coherent theory of self-development!"_. My hopes were of course immediately towards actually being able to _use it_. 
 
-The core idea is that there are 5 developmental levels where each individual is categorized. Even though the descriptions of these levels are discrete and distinct, the boundaries aren't actually that strict and one person can be in multiple ones simultaneously (for instance, when transitioning from one to another). 
+The core idea is that there are 5 developmental levels (or _orders_) where all people are categorized into. The levels are discrete and distinct, but people aren't strictly pigeonholed into these categories, as transitioning from one level to another is a process.
 
-Each category is defined as the combination of what sort of ~parts of life~ (vague?) is an individual **subject to** (subjected?) (without being to reflect on it, in essence unquestioned beliefs (_not_ [belief in belief](http://lesswrong.com/lw/i4/belief_in_belief/))) and what sort of ~~parts of life~~ the individual sees as an **object** in the mind. _(There's an image of a table floating around, but is full of vague labels and incoherent graphs, so I decided to omit it from this post. However, if you still want to glimpse at it, here it is: [5 stages of development](http://i.imgur.com/K4AVFbW.png).)_
+Each level is defined by the extent of the ability of one to regard _aspects of one's life_ as an **object**, rather than be purely **subjected to** it (being unable to reflect on them). These _aspects of one's life_ is described by Berger [1] as _aspects of meaning constructing_ and even though it annoys me the label it so vaguely, I could not come up with a better category where all these fit in: 
 
-What makes it _constructive_ and _developmental_, however, is the fact that each level builds on the object-level understanding of the previous level, thus **developing** to higher levels can be seen as **constructing** understanding of reality.
+* reflexes (1st level) 
+* impulses, perceptions (2nd) 
+* needs, interests, desires (3rd) 
+* interpersonal relationships, mutuality (4th) 
+* self-authorship, identity, ideology (5th)
+
+However, clearly these are also simply vague labels which don't do much in helping to embrace the full extent of what is seen as an object on each level. There's an image of a table with these words, but neither the words or the drawings are very useful: [5 stages of development](http://i.imgur.com/K4AVFbW.png).
+
+What makes it _constructive_ and _developmental_, however, is the fact that each level builds on the object-level understanding of the previous level, thus _developing_ to higher levels can be seen as _constructing_ understanding of reality.
 
 The first level usually only concerns small children. In this, there are no rules, no laws seeming to govern reality. Everything is an extension of oneself, a playground of sorts, or a dream that is confusing. Transition out of this stage happens by developing an understanding of reality that the things you sense might not actually be yourself, but rather can continue existing after you have stopped paying attention to them.
 
@@ -33,5 +41,20 @@ Kegan asserts that the fifth level is never seen before midlife. People in the f
 >Case study.  By the time Kathleen was in her early 50s, she had become chief counsel for in a large government agency.  During her fast rise through the early years in her profession, she was “much more willing, for the sake of prestige, status, intellectual challenge” not to have what she would later think of as her “whole self” engaged in her work.  While emphasizing the “whole person” and being “a leader in doing that” with her staff, Kathleen “was much less in touch with what that actually meant to me.”  While her work “mattered to me a lot and was important to do,” Kathleen never “felt like it was an expression of who I was.”
 
 
+And now that you've read all this...
+
+The theory becomes kind of flat and without fluff when you simply use the core ideas from each level (taken from [2], includes 0th level, reworded for clarity):
+
+| Level   | Philosophy   |
+| -----   | ----------   |
+| 0 | living in an objectless world, a world in which everything sensed is taken to be an extension of oneself |
+| 1 | thinking fantastic and illogical, feelings impulsive and fluid, social-relating egocentric |
+| 2 | rules, sets of directions, and dualisms give shape and structure to one's daily activity |
+| 3 | other people are experienced as sources of internal validation, orientation, or authority |
+| 4 | the capacity to take responsibility for and ownership of one's internal authority |
+| 5 | recognizing commonalities and interdependence with others |
+
+
 
 [1] https://wiki.canterbury.ac.nz/download/attachments/6358104/berger+on+kegan+narrative.doc
+[2] http://cgi.stanford.edu/~dept-ctl/tomprof/posting.php?ID=1110

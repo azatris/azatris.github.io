@@ -2,9 +2,9 @@ permalink: :title
 
 encoding: "utf-8"
 highlighter: rouge
-markdown: redcarpet 
-redcarpet: 
-  extensions: ["strikethrough"] 
+# markdown: redcarpet 
+# redcarpet: 
+#   extensions: ["strikethrough"] 
 
 # About
 author:
