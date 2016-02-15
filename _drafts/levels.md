@@ -3,11 +3,15 @@ layout: post
 title: Kegan's Levels (or Constructive Developmental Theory)
 ---
 
+## Introduction
+
 As soon as I stumbled on people talking about Kegan's levels, it captured my curiosity: _"finally, a coherent theory of self-development!"_. My hopes were of course immediately towards actually being able to _use it_. 
 
 The core idea is that there are 5 developmental levels (or _orders_) where all people are categorized into. The levels are discrete and distinct, but people aren't strictly pigeonholed into these categories, as transitioning from one level to another is a process.
 
-Each level is defined by the extent of the ability of one to regard _aspects of one's life_ as an **object**, rather than be purely **subjected to** it (being unable to reflect on them). These _aspects of one's life_ is described by Berger [1] as _aspects of meaning constructing_ and even though it annoys me the label it so vaguely, I could not come up with a better category where all these fit in: 
+Each level is defined by the extent of the ability of one to regard _aspects of one's life_ as an **object**, rather than be purely **subjected to** it (being unable to reflect on them). 
+
+These _aspects of one's life_ is described by Berger [1] as _aspects of meaning constructing_ and even though it annoys me the label it so vaguely, I could not come up with a better category where all these _aspects_ fit in: 
 
 * reflexes (1st level) 
 * impulses, perceptions (2nd) 
@@ -15,13 +19,19 @@ Each level is defined by the extent of the ability of one to regard _aspects of 
 * interpersonal relationships, mutuality (4th) 
 * self-authorship, identity, ideology (5th)
 
-However, clearly these are also simply vague labels which don't do much in helping to embrace the full extent of what is seen as an object on each level. There's an image of a table with these words, but neither the words or the drawings are very useful: [5 stages of development](http://i.imgur.com/K4AVFbW.png).
+(Clearly these are simply labels which don't do much in helping to embrace the full extent of what is seen as an object on each level. There's an image of a table that uses these labels, but neither the table or the diagrams are very useful, unless you already understand the theory: [5 stages of development](http://i.imgur.com/K4AVFbW.png).)
 
 What makes it _constructive_ and _developmental_, however, is the fact that each level builds on the object-level understanding of the previous level, thus _developing_ to higher levels can be seen as _constructing_ understanding of reality.
 
+## Level 0/1
+
 The first level usually only concerns small children. In this, there are no rules, no laws seeming to govern reality. Everything is an extension of oneself, a playground of sorts, or a dream that is confusing. Transition out of this stage happens by developing an understanding of reality that the things you sense might not actually be yourself, but rather can continue existing after you have stopped paying attention to them.
 
-The second level is the domain of mostly older children and adolescents, with adults possibly spending many years here as well. Here beliefs, rules, and learned patterns about the world seem to be constant, unbreakable. Kegan argues that on this level the individual cannot tell lies as they cannot hold both their own perspective and another's at the same time. In a nutshell, a person on this level is an agent acting in a world with no regard to others' motives, but rather all relationships are of first-order nature. (_everyone is an NPC_)
+## Level 2
+
+The second level is the domain of mostly older children and adolescents, with adults possibly spending many years here as well. Here beliefs, rules seem unbreakable, and learned patterns about the world feel constant. Kegan argues that on this level the individual cannot tell lies as they cannot hold both their own perspective and another's at the same time. In a nutshell, a person on this level is a selfish agent acting in a world with no regard to others' motives (relationships are of first-order nature with no sense of consequence). 
+
+## Level 3
 
 The third level is where internal values come to play. They draw many of the values from other influencers. These values are used in decision making and in reflection of one's actions. If there are conflicting ideologies or values from the influencers, it is impossible to make the decisions themselves and consult others how to resolve the conflicts. If told to decide for oneself, becomes even more confused and at a a loss than before. Since _selfishishness_ contradicts so many of the person's values on the third level, it is also very difficult to break out of this in order to transition to the upper level, where self-esteem comes from an independendly-constructed (reality of) self. The _rightness_ of a decision ultimately is judged by other agents and the person on this level tries one's best to satisfy that. Approximately 58% of the adult population is at this level or lower. 
 
@@ -34,12 +44,17 @@ Case study written by Berger[1]:
 
 >Walter names some of the limits of his own understanding—some of the feeling of being in over his head—when he speaks of disliking this single role and wishing he could find a way to get away from it to “somehow strike a balance” in his life.   While a teacher at any order might find himself working too many hours and frustrated about that situation, the thing that makes Walter’s frustration Third order is his seeming lack of control over it.  He describes himself as “a slave” to “the restrictive life style” of his teaching and feels “angry…that I have to be in a profession that…just demands so much of me.”  He is frustrated with himself for his deficiencies admitting, “I don’t know how to strike that balance yet.”  Kegan’s theory predicts that as Walter continues to grow toward the Fourth order, he will find himself better able to gain perspective on his teaching and its place in his life. 
 
+## Level 4
+
 In the fourth level of Kegan's framework, the biggest shift comes in that the _self_ comes into existance with all of the previous ideologies, opinions, views can now be viewed as objects rather than being subjected to them directly. They become managable, governable, and people on the fourth level use them to further develop their own values and can correct themselves as new information comes in. The opinions of others are still taken into account, however in this level the _self_ comes into importance in making decisions. Thanks to all this, one cannot be at loss at this level by conflicting ideological systems, because these people have their own system which to make decisions with. However, should the inner system be at conflict with each other, it cannot be easily resolved. (Vague?)
+
+## Level 5
 
 Kegan asserts that the fifth level is never seen before midlife. People in the fifth level have learned the limits of their own inner system and any identities they might have. The fifth level people also see more similarities and overlappings between inner systems of different people and deal better with controversies and paradoxes. They also see problems with the decision making systems of earlier levels, admitting to possible better systems for it. One of the problems being that their own inner system might contribute to their inability to see better alternatives.
 
 >Case study.  By the time Kathleen was in her early 50s, she had become chief counsel for in a large government agency.  During her fast rise through the early years in her profession, she was “much more willing, for the sake of prestige, status, intellectual challenge” not to have what she would later think of as her “whole self” engaged in her work.  While emphasizing the “whole person” and being “a leader in doing that” with her staff, Kathleen “was much less in touch with what that actually meant to me.”  While her work “mattered to me a lot and was important to do,” Kathleen never “felt like it was an expression of who I was.”
 
+## Consicely
 
 And now that you've read all this...
 
