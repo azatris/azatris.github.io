@@ -7,7 +7,7 @@ tagline: <3
 url: http://azatris.github.io/
 paginate: 1
 paginate_path: "page:num"
-baseurl: "http://azatris.github.io/"
+baseurl: ""
 
 encoding: "utf-8"
 highlighter: rouge
