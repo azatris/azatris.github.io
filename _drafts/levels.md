@@ -11,7 +11,7 @@ The core idea of the theory is that there are 5 developmental levels where you a
 
 Each level is defined by your ability to regard particular _aspects_ of your life as an **object**, rather than being completely **subjected to** it and thus being unable to reflect on them. 
 
-These _aspects_ of life are described by Berger [1] as _aspects of meaning constructing_. I believe that _meaning_ here is synonymous to _values_ as an **object** and _subconsciously identifying with_ when **subjected to**. The aspects are as follows:
+These _aspects_ of life are described by [Berger](https://wiki.canterbury.ac.nz/download/attachments/6358104/berger+on+kegan+narrative.doc) as _aspects of meaning constructing_. I believe that _meaning_ here is synonymous to _values_ as an **object** and _subconsciously identifying with_ when **subjected to**. The aspects are as follows:
 
 * reflexes (1st level object object) 
 * impulses, perceptions (2nd level object, 1st level subject) 
@@ -35,7 +35,7 @@ The second level is the domain of mostly older children and adolescents, with ad
 
 The third level is where internal values come to play. The values are drawn from external influencers, and are used in decision making, including self-reflection. Should there be any conflicting ideologies or values from the influencers, you consult others how to resolve the conflicts. Dealing with the conflict, if told to resolve that yourself, you become even more confused and at a a loss than before. Since _selfishishness_ contradicts so many of the acquired external values on the third level, it is also very difficult to break out of this in order to transition to the upper level (where self-esteem comes from an independendly-constructed reality of self). The _rightness_ of a decision ultimately is judged by other agents and on this level you try your best to satisfy that. Approximately 58% of the adult population is at this level or lower. 
 
-Case study written by Berger[1]:
+Case study written by [Berger](https://wiki.canterbury.ac.nz/download/attachments/6358104/berger+on+kegan+narrative.doc):
 
 >Walter is an excellent example of a Third order meaning-maker.  A responsible, hard working teacher, Walter is strongly invested in teaching as a career and in the success of his students.  He is intelligent, highly educated, and knowledgeable about his certification area of science.  He is also very reflective and curious, and he works hard to be a better teacher through continuing staff development, discussions with his colleagues, and reading books that help him make sense of the complexities of a difficult profession.  He is strongly invested in being a success as a teacher, and he wishes he were confident about “doing the right thing.”
 
@@ -59,7 +59,7 @@ Kegan asserts that the fifth level is never seen before midlife. In the fifth le
 
 And now that you've read all this...
 
-The theory becomes kind of flat and fluffless when we simply use the core ideas from each level (taken from [2], includes 0th level, reworded for clarity):
+The theory becomes kind of flat and fluffless when we simply use the core ideas from each level (taken from [Stanford mailing list](http://cgi.stanford.edu/~dept-ctl/tomprof/posting.php?ID=1110), includes 0th level, reworded for clarity):
 
 | Level   | Philosophy   |
 | -----   | ----------   |
@@ -104,8 +104,8 @@ I got nothing out of this theory in the form of knowledge in order to make bette
 Despite all of this questionable value and coherence of the theory, I have become to notice some people being obviously level 3 by Kegan's theory. It is quite fascinating they not have a _governing self_, but rather draw all of their values from other influencers by the looks of it. Everything they do seems to be only in order to satisfy the influencers' views, rather than understanding they don't really need to conform and can _Really Do Whatever You Want_. 
 
 
-## References
+## External links
 
-[1] https://wiki.canterbury.ac.nz/download/attachments/6358104/berger+on+kegan+narrative.doc
-
-[2] http://cgi.stanford.edu/~dept-ctl/tomprof/posting.php?ID=1110
+* [Berger's Summary](https://wiki.canterbury.ac.nz/download/attachments/6358104/berger+on+kegan+narrative.doc)
+* [Stanford's Tomorrow's Professor Msg.#1110](http://cgi.stanford.edu/~dept-ctl/tomprof/posting.php?ID=1110)
+* [Developmentalobserver's Overview](http://developmentalobserver.blog.com/2010/06/09/an-overview-of-constructive-developmental-theory-cdt/)
