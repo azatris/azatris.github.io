@@ -22,11 +22,16 @@ html {
   @media (min-width: 38em) {
     font-size: 12px;
   }
+
+  min-height: 100%;
+  -webkit-background-size: cover;
 }
 
 body {
   color: #515151;
-  background-color: #fff;
+  background-image: linear-gradient(#ffffff, #cbd8d7);
+  margin: 0;
+  background-repeat: no-repeat;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
