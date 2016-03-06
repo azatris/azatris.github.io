@@ -1,12 +1,12 @@
-gems: [jekyll-paginate]
+# gems: [jekyll-paginate]
 
 permalink: :title
 
 title: azatris
 tagline: <3
 url: http://azatris.github.io/
-paginate: 1
-paginate_path: "page:num"
+# paginate: 1
+# paginate_path: "page:num"
 baseurl: ""
 
 encoding: "utf-8"
