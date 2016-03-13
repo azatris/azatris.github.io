@@ -62,6 +62,17 @@ What makes this theorem wonderful is that in order to prove a nonzero <span>$$\m
 
 Knowing this, could I truly say that there is even a tiny spark of evidence to support belief in God? The prior <span>$$\mathbb{P}(H)$$</span> (for example, my intuition) does not help me here enough. With _feeling things_ there are so many stronger hypotheses than the existence of God as the cause.
 
+## Aftermath
+
+I have always of course been open-minded towards God being possibly real, having seen no direct evidence of the contrary. I have gained many experiences being involved with spirituality. It has given me a deep insight how the brain works in exposure to it and how it builds this house of cards.
+
+But now that I know enough, I can say with complete certainty (and so can _you_!), that since there are no reproducible evidence anyone has seen since the dawn of the concept of God, the effect on our lives of either _existing_ or _not-existing_ God is none.
+
+Or, pragmatically put, there is no God.
+
+## External links
+
+[But There's Still A Chance, Right?](http://lesswrong.com/lw/ml/but_theres_still_a_chance_right/)
 
 
 
