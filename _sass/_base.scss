@@ -81,3 +81,13 @@ tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
+
+.left {
+    float: left;
+    width: 50%;
+}
+
+.right {
+    float: right;
+    text-align: right;
+}
