@@ -1,0 +1,7 @@
+---
+layout: default
+title: Me
+---
+
+{% capture me-include %}{% include me.md %}{% endcapture %}
+{{ me-include | markdownify }}
