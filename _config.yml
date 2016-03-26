@@ -4,7 +4,7 @@ permalink: :title
 
 title: azatris
 tagline: ♥
-url: http://azatris.github.io/
+url: http://azatris.github.io
 paginate: 10
 paginate_path: "page:num"
 baseurl: ""
