@@ -5,7 +5,19 @@ comments: true
 
 <article class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_long_string }}</time>
+  <time datetime="{{ page.date | date_to_xmlschema }}" class="post-metadata">published: {{ page.date | date_to_long_string }}</time>
+  {% if page.last_updated %}
+  <time datetime="{{ page.last_updated | date_to_xmlschema }}"class="post-metadata">last updated: {{ page.last_updated | date_to_long_string }}</time>
+  {% endif %}
+  {% if page.belief %}
+  <belief class="post-metadata">
+    <a href="http://www.gwern.net/About#belief-tags"><span title="Explanation of 'belief' metadata">belief:</span></a> 
+    {{ page.belief }}
+  </belief>
+  {% endif %}
+  {% if page.status %}
+  <status class="post-metadata">status: {{ page.status }}</status>
+  {% endif %}
   {{ content }}
 </article>
 

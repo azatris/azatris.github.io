@@ -1,6 +1,8 @@
 ---
 layout: post
 title: True Value
+belief: likely
+status: in progress
 ---
 
 ## Values
