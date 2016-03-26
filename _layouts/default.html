@@ -7,16 +7,33 @@
 
     <div class="container content">
       <header class="masthead">
-        <div>
-        <h3 class="left masthead-title">
-          <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-          <small>{{ site.tagline }}</small>
-        </h3>
+        <div class="left column-third">
+          <h3 class="masthead-title">
+            <a href="{{ site.baseurl }}/" title="home"><small>{{ site.title }} </small></a>
+            <small>{{ site.tagline }}</small>
+          </h3>
         </div>
-        <div>
-        <h3 class="right masthead-title">
-          <a href="{{ site.baseurl }}/atom.xml" title="Atom feed"><img src="{{ site.baseurl }}/public/feed-icon-14x14.png"></a>
-        </h3>
+        <div class="column-center">
+          <h3 class="masthead-title" id="content">
+            <a href="{{ site.baseurl }}/" title="home">home</a>
+            <small>♦</small>
+            <a href="{{ site.baseurl }}/site" title="what this blog is about">site</a>
+            <small>♦</small>
+            <a href="{{ site.baseurl }}/me" title="who am I">me</a>
+          </h3>
+        </div>
+        <div class="right column-third">
+            <h3 class="masthead-title">
+              <div class="right">
+                <a href="{{ site.baseurl }}/atom.xml" title="Atom feed"><img src="{{ site.baseurl }}/public/rss_16.png"></a>
+              </div>
+              <div class="right">
+                <a href="https://twitter.com/azatris" title="Twitter"><img src="{{ site.baseurl }}/public/twitter_16.png"></a>
+              </div>
+              <div class="right">
+                <a href="https://www.facebook.com/azatris" title="Facebook"><img src="{{ site.baseurl }}/public/facebook_16.png"></a>
+              </div>
+            </h3>
         </div>
       </header>
 

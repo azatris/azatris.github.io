@@ -82,12 +82,9 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
-.left {
-    float: left;
-    width: 50%;
-}
+.column-third { width: 33%; }
+.left { float: left; padding-right: 3px }
+.right { float: right; padding-left: 3px }
+.column-center { display: inline-block; width: 33%; }
 
-.right {
-    float: right;
-    text-align: right;
-}
+
