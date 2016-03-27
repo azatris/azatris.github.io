@@ -16,6 +16,20 @@ sitemap:
         ♦ {{ post.title }} 
       </a>
     </h3>
+    {% if post.last_updated %}
+      <time class="right post-metadata">
+        <ul style="list-style: none;">
+          <li>
+            {{ post.date | date_to_long_string }} 
+          </li>
+          <li>
+            -{{ post.last_updated | date_to_long_string }}
+          </li>
+        </ul>
+      </time>
+    {% else %}
+      <time class="right post-metadata">{{ post.date | date_to_long_string }}</time>
+    {% endif %}
     {% if post.summary %}
       {{ post.summary }}
     {% endif %}
