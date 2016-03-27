@@ -3,6 +3,7 @@ layout: post
 title: True Value
 belief: likely
 status: in progress
+last_updated: 2016-03-27
 summary: |
     What is truly valuable? Do you know where you got your current values? An utilitarian view to life.
 ---
@@ -29,7 +30,7 @@ There's even no evidence to consider one value over another - e.g. _love_ being 
 
 In order to maximize the expected true value of our life, we should first find out what is that true value that we want to maximize! But since we don't know what this would be yet, then until that moment the only sure bet that increases this expected value - **more time**! 
 
-(Sadly, as it is with expected values, there might not _actually_ be any value found anywhere. Also I apologize to the readers who argue that finding true value in life is a malformed problem proposition - by true value I mean a non-random value you'd hold in in a nonzero regard given you have actually found it. I, for one, have no evidence to assign a higher probability mass to there _not_ being a true value. Is there evidence?)
+(Sadly, as it is with expected values, there might not _actually_ be any value found anywhere. Also I apologize to the readers who argue that finding true value in life is a malformed problem proposition - by true value I mean a non-random value you'd hold in a nonzero positive regard given you have actually found it. I, for one, have no evidence to assign a higher probability mass to there _not_ being a true value. Is there evidence?)
 
 So - how do we get more time?
 
