@@ -5,7 +5,7 @@ belief: likely
 status: in progress
 last_updated: 2016-03-27
 summary: |
-    What is truly valuable? Do you know where you got your current values? An utilitarian view to life.
+    What is truly valuable? Do you know where you got your current values? The utilitarian view to life.
 ---
 
 ## Values
