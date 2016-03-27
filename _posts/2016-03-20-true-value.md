@@ -1,8 +1,8 @@
 ---
 layout: post
 title: True Value
-belief: likely
-status: in progress
+belief: highly likely
+status: possibly done
 last_updated: 2016-03-27
 summary: |
     What is truly valuable? Do you know where you got your current values? The utilitarian view to life.
