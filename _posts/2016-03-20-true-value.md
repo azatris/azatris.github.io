@@ -3,6 +3,8 @@ layout: post
 title: True Value
 belief: likely
 status: in progress
+summary: |
+    What is truly valuable? Do you know where you got your current values? An utilitarian view to life.
 ---
 
 ## Values

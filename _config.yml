@@ -1,4 +1,4 @@
-# gems: [jekyll-paginate]
+gems: [jekyll-paginate]
 
 permalink: :title
 

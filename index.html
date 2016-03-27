@@ -16,6 +16,9 @@ sitemap:
         ♦ {{ post.title }} 
       </a>
     </h3>
+    {% if post.summary %}
+      {{ post.summary }}
+    {% endif %}
   </article>
   {% endfor %}
 </div>
