@@ -1,10 +1,13 @@
-gems: [jekyll-paginate]
+plugins: 
+  - jekyll-paginate
+  - jekyll-seo-tag
 
 permalink: :title
 
-title: azatris
+title: Azatris' Beliefs Box
 tagline: ♥
-url: http://azatris.github.io
+description: Beliefs I hold about the world
+url: https://azatris.github.io
 paginate: 10
 paginate_path: "page:num"
 baseurl: ""
@@ -19,3 +22,19 @@ highlighter: rouge
 author:
   name: azatris
   email: azatris@gmail.com
+
+twitter:
+  username: azatris
+  card: summary
+
+logo: /public/apple-touch-icon.png
+
+social:
+  name: Silver Taza
+  links:
+    - https://www.facebook.com/azatris
+    - https://twitter.com/azatris
+    - https://www.linkedin.com/in/silvertaza
+    - https://github.com/azatris
+
+lang: en_US
