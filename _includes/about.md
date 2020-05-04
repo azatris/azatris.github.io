@@ -1,8 +1,8 @@
-# Site
+# About
 
 - - - 
 
-## Content
+## What You Can Find Here
 
 In this blog I dissect beliefs that I hold, including ideas that interest me. I am not completely sure of this format yet, but I have wanted to write in this style for ages already, so we'll see how it goes.
 
