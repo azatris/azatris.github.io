@@ -119,3 +119,5 @@ Anxiety is often linked to depression, they're like brothers. But some anxiety i
 [Jordan Peterson - Advice For People With Depression](https://youtu.be/2c3m0tt5KcE?t=2683)
 
 [exurb1a - Misery was](https://www.youtube.com/watch?v=n__42UNIhvU)
+
+[Joe Rogan and Johann Hari - Depression Isn't a Chemical Imbalance?](https://www.youtube.com/watch?v=JNiPxNkr_Lk)
