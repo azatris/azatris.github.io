@@ -2,7 +2,7 @@
 layout: post
 title: Modes of Learning
 belief: maybe
-status: not complete, but perhaps suffient
+status: not complete, but perhaps sufficient
 last_updated: 2020-05-16
 summary: |
     I postulate that there are main two modes of learning - slow and steady stacking of strong information. And secondly, piling fast lots of weak data to make good inferences from the whole.
@@ -21,13 +21,13 @@ I guess there are also parallels to be taken with people that hate smalltalk and
 
 The world is a difficult thing to make sense of and as such we need to use tools that simplify this and make it more comfortable for us to interact with. For this we've developed accurate communications methods (like maths), formal logic and also words to describe our certainty level and ways of referencing sources - e.g. _"I am almost certain that the name of the fungus [Spongiforma squarepantsii](https://en.wikipedia.org/wiki/Spongiforma_squarepantsii) refers to the cartoon SpongeBob Squarepants."_
 
-So when you hear me say this phrase, you can simply update your world model simply and without issues mostly, because you trust Wikipedia as a source of truth and you also acknowledge the likelihood of this being true due to the sheer strength of the similary of these words. 
+So when you hear me say this phrase, you can simply update your world model simply and without issues mostly, because you trust Wikipedia as a source of truth and you also acknowledge the likelihood of this being true due to the sheer strength of the similarity of these words. 
 
 Strong information learning also happens for instance when you learn financial analysis methods from a book, test it out in practice and validate it yourself. You have little doubt of its applicability or at the very least, its relation to reality.
 
 If you learn something by heart, for instance the periodic table and the corresponding atomic masses - this would also account for strong information learning as you need very little surrounding context to know all this. It might not be very useful without context, but you can still _know_ this by heart and it might be useful in the future.
 
-There are also people who use aspects of strong information learning only when it suits them in debates. For instance you say _"I hate pineapple"_  to a pineapple lover and then they try to to make you into a liar because you didn't specify how exactly is your relationship with pineapples. So they reply _"I've seen you buy and eat pinapple and say you enjoyed it!"_. Yes, that might be also correct. When you said you _"hate pineapple"_ you really meant that almost every time it is canned pineapple and on pizza, which are the most frequent forms of pineapple. But still, you said something _true_, but not something that could be incorporated to the other's knowledge base about you because they couldn't take it at word value - they needed it to be more specific. This might often come across as them not trusting you.
+There are also people who use aspects of strong information learning only when it suits them in debates. For instance you say _"I hate pineapple"_  to a pineapple lover and then they try to to make you into a liar because you didn't specify how exactly is your relationship with pineapples. So they reply _"I've seen you buy and eat pineapple and say you enjoyed it!"_. Yes, that might be also correct. When you said you _"hate pineapple"_ you really meant that almost every time it is canned pineapple and on pizza, which are the most frequent forms of pineapple. But still, you said something _true_, but not something that could be incorporated to the other's knowledge base about you because they couldn't take it at word value - they needed it to be more specific. This might often come across as them not trusting you.
 
 Strong information learning can also be seen as building the world model bottom-up rather than top-down, but is fairly limited to what is actually stackable on top of the existing model. 
 
@@ -45,3 +45,14 @@ You can also have productive and useful conversations with people who are [good 
 
 ## Hybrid Learning
 
+There is of course a way to use both ways of learning and in all honestly, most people do. But I think they do this to a different degree at least within conversations. Mainly strong information learners are very annoyed with you if you come at him with the weak information learner strategy. And vice versa, with mainly weak information learners it might be too much of a hassle to talk to the strong information learners. 
+
+I think it is best if you adjust according to your conversation partner and do both according to the situation. If your conversation partner also knows both, you can explore topics with weak information style and once you get to a more specific topic that you want to dissect, you switch the mode. 
+
+But unfortunately most people are quite rigid in their ways, e.g. either they're always 80% strong, 20% weak or e.g. 70% weak and 30% strong. I think it is valuable to understand that people are different in their communication and information exchange styles so you can get along with them better and build more trusting, meaningful relationships.
+
+## Where Do We Go From Here
+
+I don't really know whether this theory has any larger context or applicability. It is just something I've noticed within the past few years and since I have to get along with people from _both sides_, I have had to adapt my style as well.
+
+I tend to like being in weak information style most of the time as it feels more human, more emotionally connected to our beliefs, meaning you waste less time dwelling in topics you don't care about as much (but can reason about).
