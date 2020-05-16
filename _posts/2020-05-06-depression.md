@@ -2,7 +2,7 @@
 layout: post
 title: How To Not Be Depressed
 belief: likely
-last_updated: 2020-05-06
+last_updated: 2020-05-16
 summary: |
     Are you depressed or on the verge of it? Here's a 7-step guide to get out of it. You can also take this as a list of things not to do to get depressed.
 ---
@@ -95,7 +95,7 @@ The psychologist usually knows what to do or can send you to a psychiatrist that
 
 Sometimes it is just insanely difficult to pull yourself up by your bootstraps and need some extra help. It is a completely valid option to just try antidepressants like SSRIs (Selective Serotonin Reuptake Inhibitors) to reset a big chunk of your brain chemistry to a state where you can actually perform the changes necessary to get back on track.
 
-But it comes at a cost. I've heard some people being unable to take SSRIs at all, as it makes them too zombiefied. It also often makes you gain weight. It can also make you feel as if your soul is jailed away and you cannot feel anything with the same intensity as before.
+But it comes at a cost. I've heard some people being unable to take SSRIs at all, as it makes them too zombiefied. It also often makes you gain weight. It can also make you feel as if your soul is jailed away and you cannot feel anything with the same intensity as before. There are lots of potential issues you might get from SSRIs in particular, but they're an absolutely amazing tool to actually solve the most important issue at hand - your depression. And whatever side-effects it has I've heard, seem to be all temporary, so there is little to nothing to lose here.
 
 But there are lots of different ways of dealing with this issue clinically and usually if you want to get better, you will. It does not have to even involve any drugs, let alone SSRIs. It can involve safe therapies or different sort of antidepressants. 
 
