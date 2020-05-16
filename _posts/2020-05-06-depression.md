@@ -2,6 +2,7 @@
 layout: post
 title: How To Not Be Depressed
 belief: likely
+status: potentially improvable
 last_updated: 2020-05-16
 summary: |
     Are you depressed or on the verge of it? Here's a 7-step guide to get out of it. You can also take this as a list of things not to do to get depressed.
