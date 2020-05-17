@@ -75,7 +75,7 @@ So the weak information learning paradigm would apply to H3 projects and the str
 
 ### The Hedgehog and the Fox
 
-[The Hedgehog and the Fox](https://en.wikipedia.org/wiki/The_Hedgehog_and_the_Fox) refers in an essay of the same name to the pattern where the _"a fox knows many things, but a hedgehog one important thing"_.
+[The Hedgehog and the Fox](https://en.wikipedia.org/wiki/The_Hedgehog_and_the_Fox) refers in an essay of the same name to the pattern where _"a fox knows many things, but a hedgehog one important thing"_.
 
 ### Early Adopters and Laggards
 
