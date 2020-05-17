@@ -59,13 +59,13 @@ I tend to like being in weak information style most of the time as it feels more
 
 ## Parallels
 
-I recently found out (thanks to my _cadillon_) there are quite a lot of parallels out there in the world that might be related to the same phenomenon (but not necessarily).
+I recently found out (thanks to my _cadillion_) there are quite a lot of parallels out there in the world that might be related to the same phenomenon (but not necessarily).
 
 ### Three Horizons
 
 Even though this applies to mostly business, the similarity is evident.
 
-This is from _cadillon_ (edited for readability):
+This is from _cadillion_ (edited for readability):
 >Three Horizons paradigm from The Alchemy of Growth talks about different stages of corporate development and the different abilities and metrics each stage requires of their leaders:
 * >H3 is the explorer phase in which you try to find product market fit. It requires agility. flexibility, creativity, and willingness to fail before you find the approach that can be exploited. There is not always a lot of prior art to rely upon.
 * >H1 is the exploiter phase in which you are simply trying not to kill the goose that laid the golden egg. Your market is well-defined, now you must simply relentlessly peel away inefficiencies and keep a large portion of the organization laser-focused on the developed approach.
